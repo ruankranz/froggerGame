@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Frogger Online Arcade Game
 ===============================
 
 To play the game, do the following:
@@ -85,8 +85,3 @@ Coding References
 - Stack Overflow
 - http://phrogz.net/js/classes/OOPinJS2.html
 - W3C Schools
-
-
-Evaluation Link
----------------
-Students should use this rubric: https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535 for self-checking their submission.

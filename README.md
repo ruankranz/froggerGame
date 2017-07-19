@@ -8,6 +8,10 @@ To play the game, do the following:
 (note: this has only been tested in Chrome - Version 39.0.2171.95 (64-bit))
 3. Have fun playing!
 
+OR 
+
+Play here: https://ruankranz.github.io/froggerGame/
+
 
 ### Playing the Game
 When you first navigate to the game page the pause screen will be up and you can select the character image you would

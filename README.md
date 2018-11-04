@@ -76,12 +76,3 @@ Info icon obtained from [findicons.com](http://findicons.com/icon/211717/info)
 
 Further information regarding image and sound attribution can be found in attribution.html, which is linked to
 from the main page.
-
-Coding References
------------------
-
-- Udacity: Object-Oriented JavaScript 
-- Udacity: HTML5 Canvas
-- Stack Overflow
-- http://phrogz.net/js/classes/OOPinJS2.html
-- W3C Schools
